@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #777;
+		color: #FF0000;		
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1785,7 +1785,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #000000;
+		color: #FF0000;
 		font-size: 3.5em;
 	}
 
@@ -2700,7 +2700,9 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #000000;
+		background: #FF0000;
+
+		;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
